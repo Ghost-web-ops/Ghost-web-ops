@@ -57,7 +57,7 @@ A full-stack web developer specializing in building dynamic and responsive web a
 <h3 align="center">Family Travel Tracker</h3>
 <a href="#" target="_blank">
 <!-- ضع هنا رابط صورة المشروع الحقيقي -->
-<img src="https://raw.githubusercontent.com/Ghost-web-ops/family-travel-tracker/main/Screenshot%202025-06-25%20005150.png" alt="Family Travel Tracker Screenshot" width="100%" />
+<img src="https://raw.githubusercontent.com/Ghost-web-ops/family-travel-tracker/main/project%20photo.png" alt="Family Travel Tracker Screenshot" width="100%" />
 </a>
 <p align="center">An application to track the countries you and your family have visited.</p>
 <p align="center">
@@ -65,7 +65,7 @@ A full-stack web developer specializing in building dynamic and responsive web a
 <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 <!-- ضع هنا رابط الديمو الحقيقي إن توفر -->
-<a href="#">
+<a href="https://family-travel-tracker-production.up.railway.app">
 <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
 </a>
 </p>
