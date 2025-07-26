@@ -20,8 +20,8 @@ I'm a passionate software developer who helps businesses and individuals transfo
 <table align="center">
 <tr align="center">
 <td width="50%" valign="top">
-<h3 align="center">Personal Portfolio</h3>
-<a href="[Your Live Demo Link for the Blog Here]" target="_blank">
+<h3 align="center">Modern Blog</h3>
+<a href="https://fullstack-blog-nextjs-rouge.vercel.app/" target="_blank">
   <img src="[Link to your screenshot]" alt="Modern Blog Screenshot" width="100%" />
 </a>
 <p align="center">
@@ -31,7 +31,7 @@ I'm a passionate software developer who helps businesses and individuals transfo
   <a href="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="[Your Live Demo Link for the Blog Here]">
+  <a href="https://fullstack-blog-nextjs-rouge.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -96,8 +96,8 @@ I'm a passionate software developer who helps businesses and individuals transfo
 ## 🛠️ Languages and Tools I Use
 
 <p align="center">
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
