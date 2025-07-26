@@ -22,7 +22,7 @@ I'm a passionate software developer who helps businesses and individuals transfo
 <td width="50%" valign="top">
 <h3 align="center">Modern Blog</h3>
 <a href="https://fullstack-blog-nextjs-rouge.vercel.app/" target="_blank">
-  <img src="[Link to your screenshot]" alt="Modern Blog Screenshot" width="100%" />
+  <img src="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs/blob/main/Screenshot%202025-07-18%20220602.png" alt="Modern Blog Screenshot" width="100%" />
 </a>
 <p align="center">
   A high-performance, fully responsive blog frontend built with Next.js, pulling content from a headless CMS (Ghost API). This project showcases the power of Static Site Generation (SSG) for creating ultra-fast, SEO-friendly websites.
