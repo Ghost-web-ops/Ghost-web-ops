@@ -166,6 +166,7 @@ I'm a passionate software developer who helps businesses and individuals transfo
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="40" width="50" />
   </a>
 </p>
+
 ---
 
 ### My Work Philosophy
