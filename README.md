@@ -4,7 +4,7 @@ Hi there, I'm Omar Yasser Mohamed! <img src="https://media.giphy.com/media/hvRJC
 </p>
 
 <p align="center">
-A full-stack web developer specializing in building dynamic and responsive web applications using the PERN stack. I am always striving to learn new technologies and apply best practices in the world of web development.
+I'm a passionate software developer who helps businesses and individuals transform their ideas into powerful, high-performance web applications. I specialize in building complete solutions from scratch, focusing on clean code, intuitive user experiences, and scalable architecture.
 </p>
 
 🔭   I’m currently building hands-on projects to deepen my expertise in React and Node.js.  
@@ -21,17 +21,19 @@ A full-stack web developer specializing in building dynamic and responsive web a
 <tr align="center">
 <td width="50%" valign="top">
 <h3 align="center">Personal Portfolio</h3>
-<a href="https://ghost-web-ops.github.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/Ghost-web-ops/Ghost-web-ops.github.io/main/Screenshot%202025-06-24%20103153.png" alt="Personal Portfolio Screenshot" width="100%" />
+<a href="[Your Live Demo Link for the Blog Here]" target="_blank">
+  <img src="[Link to your screenshot]" alt="Modern Blog Screenshot" width="100%" />
 </a>
-<p align="center">A portfolio website showcasing my skills and projects as a Full-Stack Developer.</p>
 <p align="center">
-<a href="https://github.com/Ghost-web-ops/Ghost-web-ops.github.io">
-<img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://ghost-web-ops.github.io/">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
-</a>
+  A high-performance, fully responsive blog frontend built with Next.js, pulling content from a headless CMS (Ghost API). This project showcases the power of Static Site Generation (SSG) for creating ultra-fast, SEO-friendly websites.
+</p>
+<p align="center">
+  <a href="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="[Your Live Demo Link for the Blog Here]">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 </td>
 
