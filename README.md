@@ -166,3 +166,10 @@ I'm a passionate software developer who helps businesses and individuals transfo
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="40" width="50" />
   </a>
 </p>
+---
+
+### My Work Philosophy
+
+> I believe in writing clean, maintainable code and building products with a user-first approach. I thrive on clear communication and am committed to delivering high-quality, well-tested solutions on time. My goal is to be a reliable technical partner for my clients.
+
+---
