@@ -1,18 +1,20 @@
-Hi there, I'm Omar Yasser Mohamed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 <p align="center">
-<strong>Full Stack Developer | PERN Stack</strong>
+  <img src="https://github.com/Ghost-web-ops/professional-portfolio-nextjs/blob/main/src/app/icon.svg"  width="50" height="50" alt="Omar Yasser Banner" />
 </p>
 
+<h1 align="center">Hi there, I'm Omar Yasser Mohamed! 👋</h1>
+
 <p align="center">
-I'm a passionate software developer who helps businesses and individuals transform their ideas into powerful, high-performance web applications. I specialize in building complete solutions from scratch, focusing on clean code, intuitive user experiences, and scalable architecture.
+  <strong>Full Stack Developer specializing in the PERN (PostgreSQL, Express, React, Node.js) Stack</strong>
 </p>
 
-🔭   I’m currently building hands-on projects to deepen my expertise in React and Node.js.  
-🌱   I’m currently learning about advanced State Management concepts in React and how to optimize backend performance.  
-👯   I’m looking to collaborate on open-source projects, especially those focused on JavaScript/TypeScript.  
-💬   Ask me about anything related to: PostgreSQL, Express, React, Node.js.  
-📫   How to reach me: omaryasser011549@gmail.com <!-- Replace with your email -->
+I'm a software developer passionate about turning complex ideas into elegant and efficient web applications. My focus is on building scalable backends and intuitive, responsive frontends, ensuring a seamless user experience from start to finish.
 
+- 🔭 I’m currently building full-stack projects to deepen my expertise in **React** and **Node.js**.
+- 🌱 I’m learning advanced state management in React and backend performance optimization techniques.
+- 👯 I’m looking to collaborate on open-source projects, especially those built with **JavaScript/TypeScript**.
+- 📫 You can reach me at: **omaryasser011549@gmail.com**
+- 💬 Ask me about anything related to the **PERN stack**!
 ---
 
 ## 🚀 My Projects
@@ -27,6 +29,9 @@ I'm a passionate software developer who helps businesses and individuals transfo
 <p align="center">
   A high-performance, fully responsive blog frontend built with Next.js, pulling content from a headless CMS (Ghost API). This project showcases the power of Static Site Generation (SSG) for creating ultra-fast, SEO-friendly websites.
 </p>
+  <p align="center">
+    <strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, Ghost CMS API, Node.js, Express.js, PostgreSQL.
+  </p>
 <p align="center">
   <a href="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
@@ -43,6 +48,9 @@ I'm a passionate software developer who helps businesses and individuals transfo
 <img src="https://raw.githubusercontent.com/Ghost-web-ops/keeper-app/main/Screenshot%202025-06-24%20094903.png" alt="Keeper App Screenshot" width="100%" />
 </a>
 <p align="center">A note-taking application inspired by Google Keep, built with React.</p>
+  <p align="center">
+    <strong>Tech Stack:</strong>React, CSS, HTML.
+  </p>
 <p align="center">
 <a href="https://github.com/Ghost-web-ops/keeper-app">
 <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
@@ -62,6 +70,9 @@ I'm a passionate software developer who helps businesses and individuals transfo
 <img src="https://raw.githubusercontent.com/Ghost-web-ops/family-travel-tracker/main/project%20photo.png" alt="Family Travel Tracker Screenshot" width="100%" />
 </a>
 <p align="center">An application to track the countries you and your family have visited.</p>
+  <p align="center">
+    <strong>Tech Stack:</strong> Ejs, CSS, HTML, PostgreSQL.
+  </p>
 <p align="center">
 <a href="https://github.com/Ghost-web-ops/family-travel-tracker">
 <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
@@ -79,6 +90,9 @@ I'm a passionate software developer who helps businesses and individuals transfo
 <img src="https://raw.githubusercontent.com/Ghost-web-ops/Simple-page/main/Screenshot%202025-07-04%20095557.png" alt="Simple Page Screenshot" width="100%" />
 </a>
 <p align="center">A simple web page design featuring a Navbar and a Footer.</p>
+  <p align="center">
+    <strong>Tech Stack:</strong>React, Tailwind CSS.
+  </p>
 <p align="center">
 <a href="https://github.com/Ghost-web-ops/Simple-page">
 <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
@@ -95,82 +109,77 @@ I'm a passionate software developer who helps businesses and individuals transfo
 
 ## 🛠️ Languages and Tools I Use
 
-<p align="center">
-    <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+## 🛠️ My Tech Stack
 
-
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center">
+        <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" width="80" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center">
+        <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
+        <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td align="center">
+      <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/></a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript, TypeScript" width="80" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Workflow</strong></td>
+    <td align="center">
+        <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
+        <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Ghost-web-ops&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-web-ops&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="top-langs" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-web-ops&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-web-ops&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="top-langs" />
 </p>
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect With Me
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/omar-yasser-017995344" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- Twitter / X -->
   <a href="https://x.com/OmarYas4649763" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" height="40" width="50" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:omaryasser011549@gmail.com">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="40" width="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### My Work Philosophy
-
-> I believe in writing clean, maintainable code and building products with a user-first approach. I thrive on clear communication and am committed to delivering high-quality, well-tested solutions on time. My goal is to be a reliable technical partner for my clients.
-
+> I believe in a user-first approach and delivering high-quality, well-tested solutions. My core principles are:
+> - **Clean & Maintainable Code:** Writing code that is easy to read, scale, and debug.
+> - **Clear Communication:** Ensuring alignment and transparency throughout the development process.
+> - **Reliable Partnership:** Being a dependable technical partner committed to meeting deadlines and exceeding expectations.
 ---
