@@ -5,10 +5,10 @@
 <h1 align="center">Hi there, I'm Omar Yasser Mohamed! 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer specializing in the PERN (PostgreSQL, Express, React, Node.js) Stack</strong>
+  <strong>Full Stack Developer specializing in the PERN stack | React, Next.js, Node.js </strong>
 </p>
 
-I'm a software developer passionate about turning complex ideas into elegant and efficient web applications. My focus is on building scalable backends and intuitive, responsive frontends, ensuring a seamless user experience from start to finish.
+I'm a passionate software developer who helps businesses and individuals transform their ideas into powerful, high-performance web applications. I specialize in building complete solutions from scratch, focusing on clean code, intuitive user experiences, and scalable architecture.
 
 - 🔭 I’m currently building full-stack projects to deepen my expertise in **React** and **Node.js**.
 - 🌱 I’m learning advanced state management in React and backend performance optimization techniques.
@@ -112,6 +112,8 @@ I'm a software developer passionate about turning complex ideas into elegant and
 </td>
 </tr>
 </table>
+
+---
 
 ## My Tech Stack
 
