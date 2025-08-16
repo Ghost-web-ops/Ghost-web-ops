@@ -15,32 +15,42 @@ I'm a software developer passionate about turning complex ideas into elegant and
 - 👯 I’m looking to collaborate on open-source projects, especially those built with **JavaScript/TypeScript**.
 - 📫 You can reach me at: **omaryasser011549@gmail.com**
 - 💬 Ask me about anything related to the **PERN stack**!
+
 ---
 
-## 🚀 My Projects
+## Table of Contents
+- [Featured Projects](#featured-projects)
+- [My Tech Stack](#my-tech-stack)
+- [How to run](#how-to-run)
+- [Contact](#connect-with-me)
+
+---
+
+## Featured Projects
 
 <table align="center">
 <tr align="center">
 <td width="50%" valign="top">
-<h3 align="center">Modern Blog</h3>
-<a href="https://fullstack-blog-nextjs-rouge.vercel.app/" target="_blank">
-  <img src="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs/blob/main/Screenshot%202025-07-18%20220602.png" alt="Modern Blog Screenshot" width="100%" />
-</a>
-<p align="center">
-  A high-performance, fully responsive blog frontend built with Next.js, pulling content from a headless CMS (Ghost API). This project showcases the power of Static Site Generation (SSG) for creating ultra-fast, SEO-friendly websites.
-</p>
+  <h3 align="center">Modern Blog</h3>
+  <a href="https://fullstack-blog-nextjs-rouge.vercel.app/" target="_blank">
+    <img src="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs/blob/main/Screenshot%202025-07-18%20220602.png" alt="Modern Blog Screenshot" width="100%" />
+  </a>
   <p align="center">
-    <strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, Ghost CMS API, Node.js, Express.js, PostgreSQL.
+    A high-performance blog frontend built with Next.js and Tailwind CSS. It fetches content from a headless CMS (Ghost API) and leverages <strong>Static Site Generation (SSG)</strong> for ultra-fast load times and excellent SEO.
   </p>
-<p align="center">
-  <a href="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs">
-    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://fullstack-blog-nextjs-rouge.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+  <p align="center">
+    <strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, Ghost CMS API Node.js, Express.js, PostgreSQL.
+  </p>
+  <p align="center">
+    <a href="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs">
+      <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://fullstack-blog-nextjs-rouge.vercel.app/">
+      <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
+    </a>
+  </p>
 </td>
+
 
 <td width="50%" valign="top">
 <h3 align="center">Keeper App</h3>
@@ -105,11 +115,7 @@ I'm a software developer passionate about turning complex ideas into elegant and
 </tr>
 </table>
 
----
-
-## 🛠️ Languages and Tools I Use
-
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 <table align="center">
   <tr>
@@ -148,6 +154,18 @@ I'm a software developer passionate about turning complex ideas into elegant and
     </td>
   </tr>
 </table>
+
+---
+
+## How to run
+
+```bash
+git clone https://github.com/Ghost-web-ops/<repo-name>.git
+cd <repo-name>
+npm install
+npm run dev
+```
+
 ---
 
 ## 📊 My GitHub Stats
@@ -161,7 +179,7 @@ I'm a software developer passionate about turning complex ideas into elegant and
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-yasser-017995344" target="_blank">
