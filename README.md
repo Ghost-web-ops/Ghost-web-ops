@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ghost-web-ops/professional-portfolio-nextjs/blob/main/src/app/icon.svg"  width="50" height="50" alt="Omar Yasser Banner" />
+ <img src="https://raw.githubusercontent.com/Ghost-web-ops/professional-portfolio-nextjs/main/src/app/icon.svg" width="50" height="50" alt="Omar Yasser Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Omar Yasser Mohamed! 👋</h1>
@@ -35,9 +35,7 @@ I'm a software developer passionate about turning complex ideas into elegant and
   <a href="https://fullstack-blog-nextjs-rouge.vercel.app/" target="_blank">
     <img src="https://github.com/Ghost-web-ops/my-blog-frontend-nextjs/blob/main/Screenshot%202025-07-18%20220602.png" alt="Modern Blog Screenshot" width="100%" />
   </a>
-  <p align="center">
-    A high-performance blog frontend built with Next.js and Tailwind CSS. It fetches content from a headless CMS (Ghost API) and leverages <strong>Static Site Generation (SSG)</strong> for ultra-fast load times and excellent SEO.
-  </p>
+  <p align="center"> High-performance blog frontend using SSG (Next.js) and Ghost API.</p>
   <p align="center">
     <strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, Ghost CMS API Node.js, Express.js, PostgreSQL.
   </p>
@@ -59,7 +57,7 @@ I'm a software developer passionate about turning complex ideas into elegant and
 </a>
 <p align="center">A note-taking application inspired by Google Keep, built with React.</p>
   <p align="center">
-    <strong>Tech Stack:</strong>React, CSS, HTML.
+    <strong>Tech Stack:</strong> React, CSS, HTML.
   </p>
 <p align="center">
 <a href="https://github.com/Ghost-web-ops/keeper-app">
@@ -101,7 +99,7 @@ I'm a software developer passionate about turning complex ideas into elegant and
 </a>
 <p align="center">A simple web page design featuring a Navbar and a Footer.</p>
   <p align="center">
-    <strong>Tech Stack:</strong>React, Tailwind CSS.
+    <strong>Tech Stack:</strong> React, Tailwind CSS.
   </p>
 <p align="center">
 <a href="https://github.com/Ghost-web-ops/Simple-page">
@@ -124,7 +122,8 @@ I'm a software developer passionate about turning complex ideas into elegant and
         <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
         <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a>
         <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
-        <a href="#"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" width="80" height="40"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" ><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
@@ -143,7 +142,8 @@ I'm a software developer passionate about turning complex ideas into elegant and
     <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="center">
-      <a href="#"><img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript, TypeScript" width="80" height="40"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
+       <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
